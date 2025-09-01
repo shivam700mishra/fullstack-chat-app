@@ -23,8 +23,8 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development    
 
-BUILD AND START
-  Build the app
-  npm run build
-  Start the app
-  npm start
+BUILD AND START   
+  Build the app    
+  npm run build    
+  Start the app    
+  npm start    
